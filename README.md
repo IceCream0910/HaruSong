@@ -13,9 +13,9 @@
 # How to build
 > python 3.6 이상 버전
 * 사용한 라이브러리
- * Flask 
- * BeautifulSoup 
- * requests 
+  * Flask 
+  * BeautifulSoup 
+  * requests 
  
 # Screenshots
 ![캡처](https://user-images.githubusercontent.com/29334258/69243140-c5131580-0be5-11ea-800f-91f7f46a3934.PNG)
