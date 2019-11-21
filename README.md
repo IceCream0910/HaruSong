@@ -16,6 +16,7 @@
   * Flask 
   * BeautifulSoup 
   * requests 
+정상적인 사용을 위해 script.js에 유튜브 api키를 할당해줘야합니다.
  
 # Screenshots
 ![캡처](https://user-images.githubusercontent.com/29334258/69243140-c5131580-0be5-11ea-800f-91f7f46a3934.PNG)
