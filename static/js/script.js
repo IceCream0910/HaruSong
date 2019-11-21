@@ -6,7 +6,7 @@ let nowPlayPos = 0;
 let page = 1;
 let searchKeyword = ''
 
-const API_KEY = 'AIzaSyD5HvQShtP7DIGHYu_44ng1RytPZG-UG04'
+const API_KEY = '' // 유튜브 api 키
 let apiPossible = false
 let player
 
