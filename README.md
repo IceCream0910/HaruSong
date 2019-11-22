@@ -15,7 +15,7 @@
 * 사용한 라이브러리
   * Flask 
   * BeautifulSoup 
-  * requests 
+  * requests  
 정상적인 사용을 위해 script.js에 유튜브 api키를 할당해줘야합니다.
  
 # Screenshots
