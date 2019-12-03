@@ -1,4 +1,5 @@
-![대지 1](https://user-images.githubusercontent.com/29334258/69242417-289c4380-0be4-11ea-8a4d-56ed7621dec7.png)
+
+![3](https://user-images.githubusercontent.com/29334258/70064885-9b1e1200-162d-11ea-9c5d-3cbeac5dc21f.png)
 
 # Introduction
 멜론과 유튜브 API를 활용한 무료 스트리밍 서버입니다.  
